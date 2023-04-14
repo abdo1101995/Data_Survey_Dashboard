@@ -13,6 +13,8 @@ Project contains 4 Steps:
 4-Design the Dashboard.
 
 
-![alt 'DashBoard'](https://github.com/abdo1101995/Data_Survey_Dashboard/blob/main/Data_Survey.png)
+![alt 'DashBoard']
+
+(https://github.com/abdo1101995/Data_Survey_Dashboard/blob/main/Data_Survey.png)
 
 
